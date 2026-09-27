@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Databricks / local
+.databricks/
+*.dbc
+
+# Power BI local/cache files
+*.pbi/
+*.pbip/
+*.pbit
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local data
+*.xlsx
+*.csv
+*.parquet
